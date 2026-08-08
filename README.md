@@ -1,90 +1,153 @@
+<div align="center">
+
 # Mohamed Ahmed Hanfi
 
 ### AI / ML Engineer
 
 **Computer Vision** · **Generative AI** · **Agentic AI**
 
-Building intelligent systems from **models → workflows → real-world applications**.
+*Building intelligent systems from models → workflows → real-world applications.*
+
+</div>
+
+<br>
 
 ---
 
-## About
+## 🧠 Focus
 
-I'm an **AI / ML Engineer** focused on building practical AI systems across:
+<table>
+<tr>
+<td width="33%" align="center">
 
-- 👁️ **Computer Vision & Deep Learning**
-- 🤖 **Generative AI & LLM Applications**
-- 🧩 **Agentic AI & Multi-Agent Workflows**
-- 📊 **Machine Learning & Data Analysis**
+### 👁️
 
-I enjoy taking AI ideas from **experimentation to end-to-end system integration**.
+**Computer Vision**
 
----
+Detection · Tracking
+Recognition · Video Analysis
+Deep Learning
 
-## What I Work With
+</td>
 
-### 👁️ Computer Vision
+<td width="33%" align="center">
 
-`PyTorch` `OpenCV` `YOLO`
+### 🤖
 
-Object Detection · Classification · Face Recognition  
-Video Analysis · Vision Transformers
+**Generative AI**
 
-### 🤖 Generative & Agentic AI
+LLMs · Prompt Engineering
+AI Applications
+Intelligent Workflows
 
-`CrewAI` `LLMs` `Generative AI`
+</td>
 
-AI Agents · Multi-Agent Workflows  
-Prompt Engineering · LLM Applications
+<td width="33%" align="center">
 
-### 📊 Machine Learning & Data
+### 🧩
 
-`Python` `SQL` `Pandas` `NumPy`
+**Agentic AI**
 
-Data Cleaning · EDA · Feature Engineering · Visualization
+AI Agents · CrewAI
+Multi-Agent Systems
+LLM Workflows
 
-### ⚙️ Engineering
-
-`Git` `GitHub` `Docker`
-
-AI API Integration · Workflow Development · System Integration
-
----
-
-## Featured Projects
-
-### 🎥 [AI Video Anomaly Detection](PROJECT_URL)
-
-Deep learning surveillance system for detecting and classifying anomalous events in video.
-
-**ViT · CNN · PyTorch · OpenCV · OpenAI API**
-
-### 🏪 [Retail Store Surveillance](PROJECT_URL)
-
-Computer vision pipeline combining detection, tracking, and face recognition for retail environments.
-
-**YOLOv11 · BoostTrack · VGGFace2 · PyTorch · OpenCV**
-
-### 🤖 [Agentic AI Systems](PROJECT_URL)
-
-Multi-agent workflows designed to analyze data and execute specialized AI tasks using LLM-based agents.
-
-**CrewAI · LLMs · Generative AI**
+</td>
+</tr>
+</table>
 
 ---
 
-## Currently Exploring
-
-**Agentic AI → Multi-Agent Architectures → Reliable AI Systems**
-
-I'm particularly interested in building AI systems that are **modular, observable, and production-oriented**.
-
----
+## ⚙️ Expertise
 
 <div align="center">
 
+`Python` · `PyTorch` · `OpenCV` · `YOLO` · `CrewAI` · `LLMs` · `SQL` · `Docker`
+
+</div>
+
+<br>
+
+<div align="center">
+
+**Machine Learning** · **Deep Learning** · **Data Analysis** · **AI API Integration**
+
+</div>
+
+---
+
+## 🚀 Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎥 Video Anomaly Detection
+
+Deep learning system for detecting and classifying anomalous events in surveillance video.
+
+**ViT · CNN · PyTorch · OpenCV · OpenAI API**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🏪 Retail Surveillance
+
+Computer vision pipeline combining detection, tracking, and face recognition.
+
+**YOLOv11 · BoostTrack · VGGFace2 · PyTorch**
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 Agentic AI Systems
+
+Multi-agent workflows designed to perform specialized analysis and generate reliable insights.
+
+**CrewAI · LLMs · Generative AI**
+
+</td>
+
+<td width="50%" valign="top">
+
+### 📊 Data & ML
+
+Machine learning and data analysis workflows covering data preparation, exploration, and modeling.
+
+**Python · SQL · Pandas · NumPy**
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🔭 Currently Exploring
+
+<div align="center">
+
+### Agentic AI → Multi-Agent Architectures → Reliable AI Systems
+
+**Modular · Observable · Production-Oriented**
+
+</div>
+
+---
+
+<br>
+
+<div align="center">
+
+### Let's Build Something Intelligent.
+
 **AI · Machine Learning · Computer Vision · Agentic AI**
 
-[LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/) · [Email](mailto:mohamedhanfi00@gmail.com)
+<br>
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/)  ·  [Email](mailto:mohamedhanfi00@gmail.com)
 
 </div>
