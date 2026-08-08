@@ -133,7 +133,7 @@ I'm particularly interested in building AI systems that are **modular, observabl
 
 <br>
 
-<a href="[YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/)">LinkedIn</a>
+<a href="https://www.linkedin.com/in/mohamed-ahmed-3081a822a/">LinkedIn</a>
  ·  <a href="mailto:mohamedhanfi00@gmail.com">Email</a>
 
 </div>
