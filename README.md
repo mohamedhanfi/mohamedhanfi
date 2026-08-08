@@ -126,7 +126,15 @@ I'm particularly interested in building AI systems that are **modular, observabl
 ---
 
 <div align="center">
+## GitHub Activity
 
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohamedhanfi&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedhanfi&layout=compact&hide_border=true&theme=transparent" height="170"/>
+
+</div>
 ### Let's Build Something Intelligent.
 
 **AI · Machine Learning · Computer Vision · Agentic AI**
