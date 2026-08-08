@@ -1,56 +1,65 @@
 <div align="center">
 
-# Mohamed Ahmed Hanfi
-
+# Hi, I'm Mohamed Ahmed Hanfi 👋
 ### AI / ML Engineer
 
 **Computer Vision** · **Generative AI** · **Agentic AI**
 
-*Building intelligent systems from models → workflows → real-world applications.*
+*Turning research-grade models into reliable, production-ready AI systems.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedhanfi00@gmail.com)
 
 </div>
 
-<br>
+---
+
+## 🧠 About Me
+
+AI Engineer with hands-on experience across **Computer Vision**, **Generative AI**, and **Agentic AI**. I've built and deployed deep learning pipelines for real-time video analysis and integrated LLM-based agent workflows into production systems — with a strong foundation in machine learning, data analysis, and end-to-end AI system integration.
+
+🎓 **B.Sc. Computer Science & Artificial Intelligence** — Helwan University (2021–2025)
+📍 Cairo, Egypt
 
 ---
 
-## 🧠 Focus
+## 💼 Experience
+
+**AI Engineer Intern** · SustainGRC · *05/2026 – 08/2026* · London, England
+- Developed and integrated AI agent-based solutions using Generative AI and CrewAI
+- Implemented and tested AI APIs, workflows, and system integrations
+- Collaborated cross-functionally to debug, validate, and deploy AI features
+- Refactored legacy AI modules relying on outdated methods, improving reliability and maintainability
+
+**Data Analyst (Freelance)** · *01/2025 – 04/2025*
+- Analyzed 6 months of sales data across 200+ products to identify best-sellers and seasonal demand trends
+- Recommendations improved stock availability during peak sales periods
+- Tools: Excel, SQL, Python (Pandas, NumPy, Matplotlib, Seaborn)
+
+---
+
+## 🚀 Featured Projects
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" valign="top">
 
-### 👁️
+### 🎥 Smart Monitoring & Anomaly Detection
+*Graduation Project — 12/2024 – 05/2025*
 
-**Computer Vision**
+Surveillance system detecting and classifying anomalous events (arson, fighting, accidents, robbery) with real-time alerts and automated incident reports. Integrated Vision Transformers with CNNs for higher accuracy in complex, crowded scenes.
 
-Detection · Tracking
-Recognition · Video Analysis
-Deep Learning
-
-</td>
-
-<td width="33%" align="center">
-
-### 🤖
-
-**Generative AI**
-
-LLMs · Prompt Engineering
-AI Applications
-Intelligent Workflows
+`Python` `PyTorch` `OpenCV` `ViT` `Tkinter` `OpenAI API`
 
 </td>
+<td width="50%" valign="top">
 
-<td width="33%" align="center">
+### 🏪 Retail Store Surveillance System
+*02/2025 – 05/2025*
 
-### 🧩
+Computer vision pipeline combining object detection, multi-object tracking, and face recognition for customer counting, staff verification, and flow analysis — supporting loss prevention and workforce monitoring.
 
-**Agentic AI**
-
-AI Agents · CrewAI
-Multi-Agent Systems
-LLM Workflows
+`YOLOv11` `BoostTrack` `VGGFace2` `PyTorch` `OpenCV`
 
 </td>
 </tr>
@@ -58,71 +67,29 @@ LLM Workflows
 
 ---
 
-## ⚙️ Expertise
+## ⚙️ Skills
 
-<div align="center">
+**Machine Learning & AI**
+`Deep Learning (ANN, CNN, RNN, Transformers)` `Computer Vision` `Vision Transformers` `Generative AI & LLMs` `AI Agents & Agentic Workflows (CrewAI)` `PyTorch` `TensorFlow` `Keras`
 
-`Python` · `PyTorch` · `OpenCV` · `YOLO` · `CrewAI` · `LLMs` · `SQL` · `Docker`
+**Programming & Databases**
+`Python` `SQL` `SQLite` `C++`
 
-</div>
+**Data Analysis & Visualization**
+`Data Cleaning & Preprocessing` `Feature Engineering` `EDA` `Matplotlib` `Seaborn` `Plotly` `Power BI` `Excel`
 
-<br>
+**Core CS**
+`OOP` `Data Structures & Algorithms` `Statistics & Linear Algebra`
 
-<div align="center">
-
-**Machine Learning** · **Deep Learning** · **Data Analysis** · **AI API Integration**
-
-</div>
+**Tools & Platforms**
+`Git & GitHub` `Docker` `Roboflow` `n8n` `Jupyter Notebook`
 
 ---
 
-## 🚀 Featured Work
+## 📜 Certifications
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🎥 Video Anomaly Detection
-
-Deep learning system for detecting and classifying anomalous events in surveillance video.
-
-**ViT · CNN · PyTorch · OpenCV · OpenAI API**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🏪 Retail Surveillance
-
-Computer vision pipeline combining detection, tracking, and face recognition.
-
-**YOLOv11 · BoostTrack · VGGFace2 · PyTorch**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Agentic AI Systems
-
-Multi-agent workflows designed to perform specialized analysis and generate reliable insights.
-
-**CrewAI · LLMs · Generative AI**
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📊 Data & ML
-
-Machine learning and data analysis workflows covering data preparation, exploration, and modeling.
-
-**Python · SQL · Pandas · NumPy**
-
-</td>
-</tr>
-</table>
+**Digital Egypt Pioneers Program (DEPI)** — AI & Data Science, Microsoft Machine Learning Engineer track *(04/2024 – 10/2024)*
+Data Science with Python · Machine Learning · Statistics & Linear Algebra · MLOps (MLflow, Hugging Face) · Azure AI Fundamentals · Generative AI (GANs) · Prompt Engineering · Agile & Scrum
 
 ---
 
@@ -131,23 +98,16 @@ Machine learning and data analysis workflows covering data preparation, explorat
 <div align="center">
 
 ### Agentic AI → Multi-Agent Architectures → Reliable AI Systems
-
 **Modular · Observable · Production-Oriented**
 
 </div>
 
 ---
 
-<br>
-
 <div align="center">
 
-### Let's Build Something Intelligent.
+### Let's Build Something Intelligent 🚀
 
-**AI · Machine Learning · Computer Vision · Agentic AI**
-
-<br>
-
-[LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/)  ·  [Email](mailto:mohamedhanfi00@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/) · [Email](mailto:mohamedhanfi00@gmail.com)
 
 </div>
