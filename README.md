@@ -85,6 +85,6 @@ I'm particularly interested in building AI systems that are **modular, observabl
 
 **AI · Machine Learning · Computer Vision · Agentic AI**
 
-[LinkedIn]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/)) · [Email](mailto:mohamedhanfi00@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mohamed-ahmed-3081a822a/) · [Email](mailto:mohamedhanfi00@gmail.com)
 
 </div>
